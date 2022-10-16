@@ -1,0 +1,7 @@
+boto3
+dnspython
+fastapi
+python-dotenv
+python-multipart
+uvicorn[standard]
+requests
